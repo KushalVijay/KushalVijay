@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:I also YouTube Channel <a href="www.youtube.com/c/SavageProgrammer" target="_blank">Savage Programmer</a>
 
 <p align="center">
-  <a href="www.youtube.com/c/SavageProgrammer" target="_blank">Image</a>
+  <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/KushalVijay/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=KushalVijay&show_icons=true" alt="KushalVijay">
 </p>
 
-<p aligh="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/kushalvijay/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/KushalVijay_" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
 </p>
 
