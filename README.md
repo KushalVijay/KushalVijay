@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <hi align="center">Hi there, I am Kushal Vijay 👋</h1>
 
-- 🔭 I’m currently working on <a href="http://stackguardian.io/" target="_blank">StackGuardian</a>
+- 🔭 I’m currently working as SWE-I for <a href="microsoft.com" target="_blank">Microsoft</a>
 - 💬 Ask me about <strong>Python, Django and Natural Language Processing </strong>
 - 🌱 I’m currently learning <strong>System Design & Its Applications </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kushalvijay/" target="_blank">Kushal Vijay</a>
