@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>Python, Django and Natural Language Processing </strong>
 - 🌱 I’m currently learning <strong>System Design & Its Applications </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kushalvijay/" target="_blank">Kushal Vijay</a>
-- ⚡ Fun fact:I also run a YouTube Channel <a href="www.youtube.com/c/KushalVijay" target="_blank">Savage Programmer</a>
+- ⚡ Fun fact:I also run a YouTube Channel <a href="www.youtube.com/c/KushalVijay" target="_blank">Kushal Vijay YouTube</a>
 
 <p align="center">
   <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/KushalVijay/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
